@@ -1,3 +1,3 @@
 # Web-Dev
 My web development portfolio
-Tindog/inde.html
+Tindog/index.html
